@@ -11,7 +11,10 @@ url: https://yangxiangfeng.github.io
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # -------------------zhe xia mian de bei shan le
-
+gems:
+    - jekyll-sitemap
+    - jekyll-paginate
+    
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 
