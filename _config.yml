@@ -42,7 +42,7 @@ kramdown:
 include: 
   - .htaccess
 exclude: 
-f  - "*.sublime-project"
+  - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-   d
   - .bundle
