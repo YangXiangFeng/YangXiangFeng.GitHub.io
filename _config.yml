@@ -45,11 +45,11 @@ gems:
 #  - jekyll-gist
 #  - jekyll-feed
 sass:
-#  sass_dir: _sass
-#  style: compressed
+  sass_dir: _sass
+  style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-# permalink:   /:categories/:title/
+ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
