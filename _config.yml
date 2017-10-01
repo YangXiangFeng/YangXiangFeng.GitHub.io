@@ -11,15 +11,21 @@ url: https://yangxiangfeng.github.io
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # -------------------zhe xia mian de bei shan le
+timezone:    America/New_York
+future:      false  # publish future dated posts --  true, false (default) 
+highlighter: rouge
+markdown:    kramdown
 gems:
-    - jekyll-sitemap
-    - jekyll-paginate
-    
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-
-
-
+# permalink:   /:categories/:title/
 
 # -----------------zhe zhong jian de bei shan le--------------
 # Amount of post to show on home page
