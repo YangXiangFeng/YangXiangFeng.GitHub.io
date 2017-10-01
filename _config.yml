@@ -21,8 +21,8 @@ gems:
   - jekyll-gist
   - jekyll-feed
 sass:
-  sass_dir: _sass
-  style: compressed
+#  sass_dir: _sass
+#  style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 # permalink:   /:categories/:title/
@@ -42,8 +42,7 @@ kramdown:
 include: 
   - .htaccess
 exclude: 
-  - "*.less"
-  - "*.sublime-project"
+f  - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-   d
   - .bundle
