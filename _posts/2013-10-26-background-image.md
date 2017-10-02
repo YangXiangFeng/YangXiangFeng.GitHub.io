@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Post with a Background Image
+title: 第一篇博客
 description: "Sample post with a background image CSS override."
-tags: [ record ]
+tags: [ computer system ]
 image:
   background: triangular.png
 ---
