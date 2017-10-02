@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一篇博客
+title: first blog
 description: "Sample post with a background image CSS override."
 tags: [ computer system ] [计算机操作系统]
 image:
