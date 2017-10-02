@@ -2,7 +2,7 @@
 layout: post
 title: first blog
 description: "Sample post with a background image CSS override."
-tags: [ computer system ] [ssdf]
+tags: [ computer system ]
 image:
   background: triangular.png
 ---
