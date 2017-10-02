@@ -2,7 +2,7 @@
 layout: post
 title: 第一篇博客
 description: "Sample post with a background image CSS override."
-tags: [ computer system ]
+tags: [ computer system ] [计算机操作系统]
 image:
   background: triangular.png
 ---
