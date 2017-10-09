@@ -15,7 +15,7 @@ owner:
   email:          15538204898@163.com
   # Social networking links used in footer. Update and remove as you like.
     
-  github:         https://github.com/YangXiangFeng
+  github:         YangXiangFeng
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
