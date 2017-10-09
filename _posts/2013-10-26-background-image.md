@@ -1,13 +1,27 @@
 ---
 layout: post
-title: first blog
-description: "Sample post with a background image CSS override."
-tags: [computer system]
+title: flag，上学期目标
+description: "立个flag，接下来两个月需要努力完成的"
+tags: [essay]
 image:
   background: triangular.png
 ---
 
-### 第一篇博客
-以后这里就是记录笔记，心得的地方。
-> #include "stdio.h"
+# flag
+### 从数学,系统,算法三个方面同时进行
+##### 另加一个英语
+每周写一篇博客,总结一下学的知识.这些都是基础中的基础,不希望等以后往上层学习的时候被这一块拖后腿.
+
+* 专业方面
+   1. 10，11两个月主要学完计算机组成原理和操作系统. **一定要多动手,写代码**
+   2. 算法. 基础中的基础,接下来三个月每个月都要刷题了.
+   3. 计算机网络.十二月一个月学完
+
+
+* 数学
+   1. 10,11 两个月把高数,线代重新学一遍
+
+* 英语
+   1. 每天依旧背单词,这个不用改变.进度不用着急,重要的是记得牢.
+   2. 听力每天听.争取大三上结束能听懂随便一篇短文.
 
