@@ -6,6 +6,7 @@ tags: [essay]
 image:
   background: triangular.png
 ---
+![img]("../images/")
 sdfdfdsfdsf
 sdfdsfprin
 sdfdsfdf sdf
