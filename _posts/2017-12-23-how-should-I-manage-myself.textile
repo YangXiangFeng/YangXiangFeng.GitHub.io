@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 到底该如何对自己进行管理?
+title: 彻底学会对自控力的管理
 published: true
-description: "这一次一定彻底解决自控力不足"
-tags: [随笔]
+description: "彻底解决自控力不足的缺点"
+tags: [成长]
 image:
   background: triangular.png
 ---
