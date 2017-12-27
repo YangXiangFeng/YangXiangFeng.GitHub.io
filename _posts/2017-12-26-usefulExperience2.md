@@ -1,7 +1,10 @@
-
- 
 ---
-published：false
+layout: post
+title: 浙大经验
+published: false
+tags: [考研]
+image:
+  background: triangular.png
 ---
 考研规划，是一个很大的问题！
  
