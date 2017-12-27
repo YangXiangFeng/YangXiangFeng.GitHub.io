@@ -1,7 +1,7 @@
 
  
 ---
-published;false
+published：false
 ---
 考研规划，是一个很大的问题！
  
