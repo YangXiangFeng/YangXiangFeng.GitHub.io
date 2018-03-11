@@ -252,7 +252,7 @@ void setForeground(Color c)
 
 
 
-###　图像
+### 图像
 读取本地图像
 String filename= "";
 Image ig = ImageIO.read(new File(filename));
