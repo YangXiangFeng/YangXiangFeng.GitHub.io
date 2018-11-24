@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一位三十多年的老电气工程师对新人的几个忠告
-published: true
+published: false
 description: "立个flag，接下来两个月需要努力完成的"
 tags: [随笔]
 image:
