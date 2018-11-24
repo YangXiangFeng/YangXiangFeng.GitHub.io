@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018新年寄语
-published: true
+published: false
 tags: [随笔]
 image:
   background: background.jpg
